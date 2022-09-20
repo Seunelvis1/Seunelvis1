@@ -1,9 +1,7 @@
 <h1>Hi, I'm Oluwaseun! <br/><a href="https://github.com/Seunelvis1">Programmer</a>, <a href="https://www.linkedin.com/in/Seunelvis1/">Front-End Developer</a>, <a href="">Email Marketer(Mailchimp Designer)</a>
 </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Full Stack Web App (JavaScript, React, NodeJS, and Firebase)</b>
+<h2>Full Stack Web Developer (JavaScript, React, NodeJS, and Firebase)</h2>
   
   
   
