@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adeniranoluwaseunelvis@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play Chess and support Club D'Barcelona.**
 
 ## 🚀 Languages and Tools:
   
