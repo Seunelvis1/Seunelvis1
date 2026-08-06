@@ -1,68 +1,83 @@
-<h1>Hi, I'm Oluwaseun! <br/><a href="https://github.com/Seunelvis1">Programmer</a>, <a href="https://www.linkedin.com/in/Seunelvis1/">Front-End Developer</a>, <a href="https://us14.admin.mailchimp.com/">Email Marketer(Mailchimp Designer)</a>
-</h1>
+<h1 align="center">Hi, I'm Oluwaseun 👋</h1>
+<h3 align="center">Data Analyst | Power BI Developer | Data Scientist</h3>
 
-<h2>Full Stack Web Developer (JavaScript, React, NodeJS, and Firebase)</h2>
-  
-  
-  
+<p align="center">
+  <a href="https://github.com/Seunelvis1">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/Seunelvis1/">LinkedIn</a> ·
+  <a href="mailto:adeniranoluwaseunelvis@gmail.com">Email</a>
+</p>
+
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Node.js and Express.**
+- 📊 I turn raw data into decisions — dashboards, DAX, and data models are my daily tools
+- 🎓 **PL-300 certified** (Microsoft Power BI Data Analyst Professional Certificate)
+- 🌱 Currently working through a Machine Learning Bootcamp, sharpening my Python + scikit-learn skills
+- 👯 Looking to collaborate on **open-source data / BI projects**
+- 💼 Actively looking for Data Analyst / BI Developer opportunities in the UK
+- 📫 Reach me at **adeniranoluwaseunelvis@gmail.com**
+- ⚡ Fun fact: I play chess and support Club Barcelona ⚽
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+## 🚀 Languages & Tools
 
-- 📫 How to reach me **adeniranoluwaseunelvis@gmail.com**
-
-- ⚡ Fun fact **I play Chess and support Club D'Barcelona.**
-
-## 🚀 Languages and Tools:
-  
-  <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+**Data Analysis & Data Science**
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pandas.png"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="24"/></a>
+  <a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://raw.githubusercontent.com/dmlc/xgboost/master/doc/logo/xgboost.png" width="48" height="30"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
 </p>
+
+**BI & Reporting**
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/power-bi.png"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-fabric" target="_blank"><img src="https://img.shields.io/badge/Microsoft%20Fabric-%23116D95.svg?style=for-the-badge&logo=microsoft&logoColor=white" height="28"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a>
+</p>
+
+**Databases & Cloud**
+<p align="left">
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.icons8.com/color/48/000000/sql.png"/></a>
+  <a href="https://www.snowflake.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/snowflake.png"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+</p>
+
+## 📊 Featured Projects
+
+| Project | Highlights |
+|---|---|
+| **BMW Global Sales Performance Dashboard** | Star-schema model (Fact + DimModel/DimCountry/Channel), YoY time intelligence, SVG sparkline measures, exec summary + model-detail pages |
+| **Sales KPI Dashboard** | Star schema with MoM growth DAX for Revenue, Orders, AOV, Units Sold, Customers; custom theme |
+| **Cricket Player Performance Dashboard** | Batting/bowling/fielding player-record pages, strike-rate ranking, run deviation stats |
+| **Data Professional Survey Dashboard** | Power BI analysis of the global data professional community survey |
+| **Panic Attack Symptom & Trigger Analysis** | Snowflake-sourced patient dataset — symptom prevalence, lifestyle factors, age-group severity |
+| **California House Price Prediction** | ML model comparison with cross-validated metrics + interactive lesson notebook |
+| **Medical Insurance Cost Prediction** | ML model comparison with cross-validated metrics + interactive lesson notebook |
+| **Heart Disease Prediction (Petersyde Hospital brief)** | Random Forest, 86% accuracy, F1-score 0.88, 303 patients, 14 clinical features |
+| **Sales Performance Dashboard** | Power BI analysis of a large transactions dataset |
+| **E-commerce Sales Dashboard** | 27,000-row dataset across 10 countries, full-year 2023 |
+
+## 📈 GitHub Stats
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Seunelvis1&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seunelvis1&layout=compact&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<br clear="both"/>
 
+## 🤝 Connect with me
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/adeniranbest
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/adeniranoluwaseunbest/
-[linkedin]: https://linkedin.com/in/Seunelvis1
+<p align="left">
+<a href="https://www.linkedin.com/in/Seunelvis1/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Seunelvis1" width="22" height="22" /></a>
+<a href="mailto:adeniranoluwaseunelvis@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" width="22" height="22" /></a>
+</p>
 
 <!--
-**Seunelvis1/Seunelvis1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Seunelvis1/Seunelvis1** is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 -->
